@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kubernetes, Go, CI/CD
 - 🌱 I’m currently learning DevOps practices
 - 💞️ I’m looking to collaborate on Platform development, CloudNative and K8s applications...
-- 📫 robelyemane.com
+- 📫 [www](robelyemane.com), [@robelyemane_](twitter.com/robelyemane_)
 
 <!---
 ryh-cc/ryh-cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
